@@ -16,7 +16,7 @@ To determine which is the most accurate model at predicting which loans are a hi
 	
 - **Naive Random Oversampling**	
 
-![alt text](#### "NaiveRandomOversampling")
+![alt text](https://github.com/Karenjakins/Credit_Risk_Analysis/blob/main/Resources/NaiveRandomOversampling.png "NaiveRandomOversampling")
 
   - Balanced accuracy test score: **67%** | 67% accuracy of model
   - high_risk score: **0.01**
@@ -24,7 +24,7 @@ To determine which is the most accurate model at predicting which loans are a hi
 
 - **SMOTE**	
 
-![alt text](#### "SMOTE")
+![alt text](https://github.com/Karenjakins/Credit_Risk_Analysis/blob/main/Resources/SMOTE.png "SMOTE")
 
   - Balanced accuracy test score: **66%** | 66% accuracy of model
   - high_risk score: **0.01**
@@ -33,7 +33,7 @@ To determine which is the most accurate model at predicting which loans are a hi
 
 - **Undersampling**	
 
-![alt text](#### "Undersampling")
+![alt text](https://github.com/Karenjakins/Credit_Risk_Analysis/blob/main/Resources/Undersampling.png "Undersampling")
 
   - Balanced accuracy test score: **66%** | 66% accuracy of model
   - high_risk score: **0.01** 
@@ -41,7 +41,7 @@ To determine which is the most accurate model at predicting which loans are a hi
 
 - **Combination**	
 
-![alt text](#### "Combination")
+![alt text](https://github.com/Karenjakins/Credit_Risk_Analysis/blob/main/Resources/Combination.png "Combination")
 
   - Balanced accuracy test score: **54%** | 54% accuracy of model
   - high_risk score: **0.01**
@@ -49,7 +49,7 @@ To determine which is the most accurate model at predicting which loans are a hi
 
 - **Balanced Random Forest Classifier**	
 
-![alt text](#### "BalancedRandomForestClassifier")
+![alt text](https://github.com/Karenjakins/Credit_Risk_Analysis/blob/main/Resources/BalancedRandomForestClassifier.png "BalancedRandomForestClassifier")
 
   - Balanced accuracy test score: **76%** | 76% accuracy of model
   - high_risk score: **0.03**
@@ -57,7 +57,7 @@ To determine which is the most accurate model at predicting which loans are a hi
 
 - **Easy Ensemble AdaBoost Classifier**	
 
-![alt text](#### "EasyEnsembleAdaBoostClassifier")
+![alt text](https://github.com/Karenjakins/Credit_Risk_Analysis/blob/main/Resources/EasyEnsembleAdaBoostClassifier.png "EasyEnsembleAdaBoostClassifier")
 
   - Balanced accuracy test score: **93%** | 93% accuracy of model
   - high_risk score:**0.09** 
